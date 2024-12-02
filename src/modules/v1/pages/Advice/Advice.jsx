@@ -8,8 +8,8 @@ import {
 
 const adviceItems = [
   {
-    title: "Journey",
-    subTitle: "Assessoria até 250 mil em investimentos",
+    title: "Digital",
+    subTitle: "Assessoria até 300 mil em investimentos",
     topics: [
       "Conteúdos exclusivos",
       "Planilha para organização financeira",
@@ -17,7 +17,7 @@ const adviceItems = [
     ]
   }, {
     title: "Exclusiva",
-    subTitle: "Assessoria até 1 milhão em investimentos",
+    subTitle: "Assessoria acima de 300 mil em investimentos",
     topics: [
       "Follow-up Ativo",
       "Revisão trimestral",
@@ -25,8 +25,8 @@ const adviceItems = [
     ]
   },
   {
-    title: "Private",
-    subTitle: "Assessoria acima de 1 milhão em investimentos",
+    title: "Unique",
+    subTitle: "Assessoria acima de 3 milhões em investimentos",
     topics: [
       "Follow-up Ativo",
       "Revisão mensal",
@@ -34,7 +34,7 @@ const adviceItems = [
     ]
   },
   {
-    title: "Black",
+    title: "Private",
     subTitle: "Assessoria acima de 10 milhões em investimentos",
     topics: [
       "Follow-up Ativo",
